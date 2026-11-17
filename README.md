@@ -12,10 +12,10 @@ Godot 4.7 制作，四人团队，Windows 与 Android 双端可运行。
 
 | 平台 | 文件 | 说明 |
 | --- | --- | --- |
-| Windows | [`Poyanghu-EcoRestore-v0.2.11.2-win64.exe`](../../releases/latest) | 双击即玩，免安装 |
-| Android | [`Poyanghu-EcoRestore-v0.2.11.2-android.apk`](../../releases/latest) | 需允许「未知来源」安装 |
+| Windows | [`Poyanghu-EcoRestore-v0.2.11.2-win64.exe`](/QQQiZZZhe/poyanghu-ecorestore/releases/latest) | 双击即玩，免安装 |
+| Android | [`Poyanghu-EcoRestore-v0.2.11.2-android.apk`](/QQQiZZZhe/poyanghu-ecorestore/releases/latest) | 需允许「未知来源」安装 |
 
-两个包都在 [Releases](../../releases/latest) 页面，点开就是最新的。
+两个包都在 [Releases](/QQQiZZZhe/poyanghu-ecorestore/releases/latest) 页面，点开就是最新的。
 
 ## 玩法
 
